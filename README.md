@@ -23,5 +23,5 @@ pip install -r requirements.txt
 
 **I use linux Garuda Mokka so instead i have to open an env and run the command : pip install -r requirements.txt --system-break-packages**
 
-python video___.py
+python Video___.py
 
