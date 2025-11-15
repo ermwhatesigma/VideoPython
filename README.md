@@ -3,15 +3,25 @@ Also the numbers behind the Video__.py are the frame size and the Video350-17.py
 
 
 **Windows**
+
 git clone https://github.com/ermwhatesigma/VideoPython
+
 cd VideoPython
+
 pip install -r requirements.txt
+
 python video___.py
 
 
 **linux**
+
 git clone https://github.com/ermwhatesigma/VideoPython
+
 cd VideoPython
+
 pip install -r requirements.txt
+
 **I use linux Garuda Mokka so instead i have to open an env and run the command : pip install -r requirements.txt --system-break-packages**
+
 python video___.py
+
