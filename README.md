@@ -25,3 +25,12 @@ pip install -r requirements.txt
 
 python Video___.py
 
+**preinstalled videos are**
+
+Typh.mp4
+
+badapple.mp4
+
+Theoneforme.mp4
+
+*you can always put your own videos inside ofcourse*
